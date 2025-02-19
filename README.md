@@ -30,8 +30,8 @@ data2
 ```
  
 ## Calisma_v2
-
+https://www.hepsiburada.com/cep-telefonlari-c-371965?siralama=yorumsayisi
 Elde edilen tablo product.csv dosyasına yazılmıştır.
 Kategori: Saç Bakım Ürünleri
-Ürün Sayısı: 1434
-Yorum Sayısı: 1036579
+Ürün Sayısı: 1440
+Yorum Sayısı: 1.7M 
